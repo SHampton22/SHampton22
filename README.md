@@ -14,7 +14,7 @@ I’m a Front End Software Developer. I am currently enrolled in at Turing Schoo
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning React and node.js  
+- 🌱 I’m currently learning TypeScript and C#  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
