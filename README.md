@@ -17,7 +17,7 @@ I’m a Front End Software Developer. I have recently graduated from the Turing 
 - 🌱 I’m currently learning TypeScript and C#  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep night shift switched on at all times   
 
 
 
