@@ -1,31 +1,3 @@
-## <div align="center">Hey 👋, I'm Sarah Hampton!</div>  
-  
-
-
-
-### Glad to see you here!  
-I’m a Front End Software Developer. I have recently graduated from the Turing School of Software and Design. With the skills I have learned I am able to develop client-facing apps and websites. I am currently using GitHub to showcase the projects I have built while in school. 
-  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning TypeScript and C#  
-  
-
-- ⚡ Fun fact: I keep night shift switched on at all times   
-
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="left">  
